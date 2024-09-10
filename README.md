@@ -1,3 +1,3 @@
 # git-test
-test
+test \n
 line 2
